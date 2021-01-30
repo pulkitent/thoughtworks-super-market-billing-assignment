@@ -21,12 +21,12 @@
 
 # Rules they want you to follow:
 
-You may not use any external libraries to solve this problem, but you may use external libraries or tools for building 
-or testing purposes. Specifically, you may use unit-testing libraries or build tools available for your chosen 
+You should not use any external libraries to solve this problem, but you can use external libraries or tools for building 
+or testing purposes. Specifically, you can use unit-testing libraries or build tools available for your chosen 
 language (e.g., JUnit, Ant, NUnit, Rspec, Rake, etc.).
 
-We assess a number of things including the design aspect of your solution and your object-oriented programming skills. 
-While these are small problems, we expect you to submit what you believe is production-quality code; code that you’d be
+They assess a number of things including the design aspect of your solution and your object-oriented programming skills. 
+While these are small problems, They expect you to submit what you believe is production-quality code; code that you’d be
 able to run, maintain and evolve. You don’t need to gold plate your solution, however we are looking for something 
 more than a bare-bones algorithm.
 
