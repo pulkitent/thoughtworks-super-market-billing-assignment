@@ -2,7 +2,35 @@
 
 ![alt text](https://raw.githubusercontent.com/pulkitent/super-market-billing/master/problemStatement.png)
 
-# What the company is looking for
+# What are the company's expectations
+1. There must be a way to supply the application with the input data via text file
+
+2. The application must run
+
+3. Clear identification of domain entities and their relations with appropriate object modeling
+
+4. Clear and logical separation of responsibilities - (emphasis on single responsibility)
+
+5. Functionality should not be dumped in a single class, method or file (God class)
+
+6. Clean Code (Proper Naming Conventions, Readable and self documenting code, avoid redundant commenting)
+
+7. Easy to understand, not too complex code (something which can be extended by any other person) and of course functional completion
+
+8. Atomicity and Coverage of Unit Tests
+
+# Rules they want you to follow:
+
+You may not use any external libraries to solve this problem, but you may use external libraries or tools for building 
+or testing purposes. Specifically, you may use unit-testing libraries or build tools available for your chosen 
+language (e.g., JUnit, Ant, NUnit, Rspec, Rake, etc.).
+
+We assess a number of things including the design aspect of your solution and your object-oriented programming skills. 
+While these are small problems, we expect you to submit what you believe is production-quality code; code that you’d be
+able to run, maintain and evolve. You don’t need to gold plate your solution, however we are looking for something 
+more than a bare-bones algorithm.
+
+# In depth info on what the company is actually looking for
 
 They are looking for people who can write code that has flexibility built in, by adhering to the principles of Object
 Oriented Development, and have the ability to deal with the real-life constraints / trade-offs while designing a system.
